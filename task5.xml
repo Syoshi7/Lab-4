@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfValueTupleOfStringString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ValueTupleOfStringString>
+    <Item1>Богданов</Item1>
+    <Item2>Павел</Item2>
+  </ValueTupleOfStringString>
+  <ValueTupleOfStringString>
+    <Item1>Богданов</Item1>
+    <Item2>Михаил</Item2>
+  </ValueTupleOfStringString>
+  <ValueTupleOfStringString>
+    <Item1>Богданова</Item1>
+    <Item2>Ксения</Item2>
+  </ValueTupleOfStringString>
+  <ValueTupleOfStringString>
+    <Item1>Богданова</Item1>
+    <Item2>Анжела</Item2>
+  </ValueTupleOfStringString>
+  <ValueTupleOfStringString>
+    <Item1>Богданов</Item1>
+    <Item2>Антон</Item2>
+  </ValueTupleOfStringString>
+</ArrayOfValueTupleOfStringString>
